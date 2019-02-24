@@ -3,7 +3,8 @@ This is the implementation of our AAAI19 paper [Deep Single-View 3D Object Recon
 
 ## Introduction
 
-![image](./readme/img/results/result.png)
+<!-- ![image](./readme/img/results/result.png) -->
+<img src="./readme/img/results/result.png" width="65%">
 
 ## Citation
 If you find our work helpful for your research, please cite our paper:
