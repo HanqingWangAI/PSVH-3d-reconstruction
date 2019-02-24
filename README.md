@@ -1,5 +1,5 @@
 # PSVH-3d-reconstruction
-This is the implementation of our AAAI19 paper [Deep Single-View 3D Object Reconstruction with Visual Hull Embedding](https://arxiv.org/pdf/1809.03451.pdf)
+This is the implementation of our AAAI19 paper [Deep Single-View 3D Object Reconstruction with Visual Hull Embedding](https://arxiv.org/pdf/1809.03451.pdf). The authors of this paper are [Hanqing Wang](qweas120.github.io), [Jiaolong Yang](http://jlyang.org/), [Wei Liang](http://iitlab.bit.edu.cn/mcislab/~liangwei/) and [Xin Tong](http://www.xtong.info/).
 
 ## Introduction
 
