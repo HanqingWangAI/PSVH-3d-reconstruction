@@ -50,4 +50,4 @@ Run `python run_case.py` to run the examples. The outputs are reconstruction res
 
 
 ## License
-PSVH is freely available for non-commercial use, and may be redistributed under these conditions. Please see the license for further details. For commercial license, please contact the authors.
+PSVH is freely available for non-commercial use, and may be redistributed under these conditions. Please see the [license](LICENSE) for further details. For commercial license, please contact the authors.
