@@ -21,11 +21,11 @@ Our method works by first predicting a coarse shape as well as the object pose a
 ## Citation
 If you find our work helpful for your research, please cite our paper:
 ```
-@article{wang2018deep,
-  title={Deep Single-View 3D Object Reconstruction with Visual Hull Embedding},
-  author={Wang, Hanqing and Yang, Jiaolong and Liang, Wei and Tong, Xin},
-  journal={arXiv preprint arXiv:1809.03451},
-  year={2018}
+@inproceedings{wang2019deep,
+  author = {Wang, Hanqing and Yang, Jiaolong and Liang, Wei and Tong, Xin},
+  title = {Deep Single-View 3D Object Reconstruction with Visual Hull Embedding},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year = {2019}
 }
 
 ```
