@@ -7,7 +7,7 @@ This repository is the implementation of our AAAI 2019 paper:
 
 This work is implemented using [TensorFlow](https://www.tensorflow.org/).
 ## Introduction
-In this paper, we present an approach which aims to preserve more shape details and improve the reconstruction quality. The key idea of our method is to lever- age object mask and pose estimation from CNNs to assist the 3D shape learning by constructing a probabilistic single-view visual hull inside of the network. 
+In this paper, we present an approach which aims to preserve more shape details and improve the reconstruction quality. The key idea of our method is to leverage object mask and pose estimation from CNNs to assist the 3D shape learning by constructing a probabilistic single-view visual hull inside of the network. 
 
 <img src="./readme/img/network.png">
 
