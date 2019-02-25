@@ -6,7 +6,7 @@ The authors of this paper are [Hanqing Wang](https://qweas120.github.io), [Jiaol
 ## Introduction
 
 <!-- ![image](./readme/img/results/result.png) -->
-<img src="./readme/img/results/result.png" width="65%">
+<img src="./readme/img/results/result.png" align="center" width="65%">
 
 ## Citation
 If you find our work helpful for your research, please cite our paper:
