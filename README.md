@@ -39,7 +39,7 @@ If your python environments are managed via Anaconda/Miniconda, you can install 
 ``` shell
 conda install tensorflow pillow
 ```
-The checkpoint of the trained models are available [here](https://drive.google.com/open?id=1TJEUUhmZL8WJgQbsrRX9D_GKAiqE8Gic)(426MB). Extract the files to the root directory.
+In our paper, we trained two network for synthetic data and real images respectively. The checkpoint of the trained models are available [here](https://drive.google.com/open?id=1TJEUUhmZL8WJgQbsrRX9D_GKAiqE8Gic)(426MB). Extract the files to the root directory.
 
 ## Demo
 
