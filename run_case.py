@@ -347,15 +347,7 @@ def syn_model():
 def real_model():
     cates = ['03001627'] # The chair category
 
-    # weight_path = 'voxel/100001.cptk'
-    # refine_path = os.path.join('checkpoint_cross_categories_4_Adam_refine','70501.cptk')
-    
-
-
     y_vectors = tf.placeholder(shape=[1, img_w, img_h, 3], dtype=tf.float32, name='all_Images')
-    # m_vectors = tf.placeholder(shape=[batchsize, img_w, img_h, 2], dtype=tf.float32, name='all_Masks')
-    # e_vectors = tf.placeholder(shape=[batchsize, 3], dtype=tf.float32, name='all_Angles')
-    # st_vectors = tf.placeholder(shape=[batchsize, 3], dtype=tf.float32, name='all_scale_translation')
 
     with tf.variable_scope('voxel'):
         feature, feature_map, euler, st, shortcuts = encoder(y_vectors, reuse=False)
