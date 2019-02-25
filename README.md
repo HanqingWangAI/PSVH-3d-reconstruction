@@ -33,7 +33,7 @@ The checkpoint of the trained models are available [here](https://drive.google.c
 
 ## Run Example
 
-Run `python run_case.py` to run the examples. The outputs are reconstruction results before and after the refinement (Please refer to our paper for more details). The results are in `obj` format. You can use [meshlab](http://www.meshlab.net/) for visulization.
+Run `python run_case.py` to run the examples. The outputs are reconstruction results before and after the refinement (Please refer to our paper for more details). The results are in `obj` format. You can use [meshlab](http://www.meshlab.net/) for visulization.    
 
 ## Acknowlegement
 
