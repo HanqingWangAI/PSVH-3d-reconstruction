@@ -47,7 +47,7 @@ Run `python run_case.py` to run the examples. The outputs are reconstruction res
 
 ## Acknowlegement
 
-
+Part of this work was done when I was an intern at Microsoft Research Asia. This project is impossible to finish without the help of my colleagues and my mentor.
 
 ## License
 PSVH is freely available for non-commercial use, and may be redistributed under these conditions. Please see the [license](LICENSE) for further details. For commercial license, please contact the authors.
