@@ -3,7 +3,7 @@ This repository is the implementation of our AAAI 2019 paper:
 
 [Deep Single-View 3D Object Reconstruction with Visual Hull Embedding](https://arxiv.org/pdf/1809.03451.pdf)
 
-[Hanqing Wang](https://qweas120.github.io), [Jiaolong Yang](http://jlyang.org/), [Wei Liang](http://iitlab.bit.edu.cn/mcislab/~liangwei/), [Xin Tong](http://www.xtong.info/)
+[Hanqing Wang](https://hanqingwangai.github.io), [Jiaolong Yang](http://jlyang.org/), [Wei Liang](http://iitlab.bit.edu.cn/mcislab/~liangwei/), [Xin Tong](http://www.xtong.info/)
 
 This work is implemented using [TensorFlow](https://www.tensorflow.org/).
 ## Introduction
